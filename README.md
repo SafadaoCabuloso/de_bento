@@ -1,5 +1,5 @@
 # de_bento
-Projeto estudantil de CS 1.6 com criação de mapa exclusivo para o campeonato (interclasse) da escola.
+Projeto estudantil de CS 1.6 e CS2 com criação de mapa exclusivo para o campeonato (interclasse) da escola.
 
 * DESENVOLVEDOR: https://steamcommunity.com/id/buloso/ & https://steamcommunity.com/id/levyoz
 * AJUDA CRIATIVA, BALANCEAMENTO E TESTES DE BUGS:
